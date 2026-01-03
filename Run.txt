@@ -1,1 +1,2 @@
-python -m src.cli.main
+Open Terminal from D:\E Drive\GIAIC\Hackathon Projects\Maaz\Hackathon 2\HT_2-1-In-Memory-Python-Console-App
+Run python -m src.cli.main
